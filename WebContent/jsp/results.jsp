@@ -7,7 +7,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 
-
 <style type="text/css">
 	<style type="text/css">
 	#main h1 {
@@ -33,6 +32,8 @@
 </head>
 
 <body>
+
+<h1>Lazar</h1>
 	<div id="main">
 		<h1>Google</h1>
 		<form action="/Google/search" method="get">
